@@ -1,3 +1,2 @@
-title: The title of your site
-description: A short description of your site's purpose
-theme: jekyll-theme-minimal
+name: DEMO
+permalink: /rev_news/:year/:month/:day/:title/
