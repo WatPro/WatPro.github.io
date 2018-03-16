@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Front Page
-navbar: false
+navbar: ture
 ---
 
 # {{ page.title }}
@@ -18,7 +18,7 @@ I will try (but no guarantees) to place some works here, if they **meet the stan
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. 
  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) or see the [sample](https://github.com/pages-themes/minimal/blob/master/index.md).
 
