@@ -16,11 +16,11 @@ They could include mixure of the followings:
 <dt>Data Sources</dt>
 <dd>Information collected in different ways, except web crawling machines, data from gray areas and other sources prohibited to disclose. </dd>
 <dt>Mathematical Modelling</dt>
-<dd>If time allows, TeX documents may be drafted up to explain the fundamental theories. Primary tools consist of Maple, Mathematics, MATLAB, R, Python(TenserFlow etc.) and SAS, but definitely not limited to these. </dd>
+<dd>If time allows, TeX documents may be drafted up to explain the fundamental theories. Primary tools consist of Maple, Mathematics, MATLAB, R, Python(TensorFlow etc.) and SAS, but definitely not limited to these. </dd>
 <dt>Model Evaluation</dt>
 <dd>Validation ensures high quality outputs. </dd>
 <dt>Visualization </dt>
-<dd>R and Python have many good packages to produce charts, but I would rather rely on [Asymptote](http://asymptote.sourceforge.net/) and [D3.js](https://d3js.org) to create customized graphs for fine reports. </dd>
+<dd>R and Python have many good packages to produce charts, but I would rather rely on <a href="http://asymptote.sourceforge.net/" target="_blank">Asymptote</a> and <a href="https://d3js.org" target="_blank">D3.js</a> to create customized graphs for fine reports. </dd>
 </dl> 
 
 
