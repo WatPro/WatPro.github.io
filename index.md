@@ -12,6 +12,7 @@ This site is intended to store some materials since 2018. Old programs may also 
 
 They could include mixure of the followings: 
 
+<div style="margin-left: 30px;">
 <dl>
 <dt>Data Sources</dt>
 <dd>Information collected in different ways, except web crawling machines, data from gray areas and other sources prohibited to disclose. </dd>
@@ -20,9 +21,9 @@ They could include mixure of the followings:
 <dt>Model Evaluation</dt>
 <dd>Validation ensures high quality outputs. </dd>
 <dt>Visualization </dt>
-<dd>R and Python have many good packages to produce charts, but I would rather rely on <a href="http://asymptote.sourceforge.net/" target="_blank">Asymptote</a> and <a href="https://d3js.org" target="_blank">D3.js</a> to create customized graphs for fine reports. </dd>
+<dd>R and Python have many good packages to produce charts, but I would rather rely on <a href="http://asymptote.sourceforge.net/">Asymptote</a> and <a href="https://d3js.org">D3.js</a> to create customized graphs for fine reports. </dd>
 </dl> 
-
+</div>
 
 ### Work In Progress 
 
