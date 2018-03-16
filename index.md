@@ -29,6 +29,8 @@ They could include mixure of the followings:
 
 Here are some working papers, for display only. 
 
+* [TalkingData](talkingdata-adtracking-fraud-detection/)
+
 ### Some Reports
 
 I will try (but no guarantees) to place some works here, if they **meet the standard** and are **properly desensitized**. 
