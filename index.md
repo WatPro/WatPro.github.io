@@ -12,21 +12,17 @@ This site is intended to store some materials since 2018. Old programs may also 
 
 They could include mixure of the followings: 
 
-* Data Sources 
+<dl>
+<dt>Data Sources</dt>
+<dd>Information collected in different ways, except web crawling machines, data from gray areas and other sources prohibited to disclose. </dd>
+<dt>Mathematical Modelling</dt>
+<dd>If time allows, TeX documents may be drafted up to explain the fundamental theories. Primary tools consist of Maple, Mathematics, MATLAB, R, Python(TenserFlow etc.) and SAS, but definitely not limited to these. </dd>
+<dt>Model Evaluation</dt>
+<dd>Validation ensures high quality outputs. </dd>
+<dt>Visualization </dt>
+<dd>R and Python have many good packages to produce charts, but I would rather rely on [Asymptote](http://asymptote.sourceforge.net/) and [D3.js](https://d3js.org) to create customized graphs for fine reports. </dd>
+</dl> 
 
-Information collected in different ways, except web crawling machines, data from gray areas and other sources prohibited to disclose. 
-
-* Mathematical Modelling 
-
-If time allows, TeX documents may be drafted up to explain the fundamental theories. Primary tools consist of Maple, Mathematics, MATLAB, R, Python(TenserFlow etc.) and SAS, but definitely not limited to these. 
-
-* Model Evaluation 
-
-Validation ensures high standard outputs. 
-
-* Visualization 
-
-R and Python have many good packages to produce charts, but I would rather rely on [Asymptote](http://asymptote.sourceforge.net/) and [D3.js](https://d3js.org) to create customized graphs for fine reports.
 
 ### Work In Progress 
 
