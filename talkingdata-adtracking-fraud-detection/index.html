@@ -3,10 +3,16 @@
 <head>
 <meta charset="UTF-8">
 <title>TalkingData</title>
+<script src="https://d3js.org/d3.v5.js"></script> 
 </head>
 
 <body>
 Content of the document......
+  <script>
+    d3.csv("results/train_summary_ip.csv", function(data) {
+      console.log(data[0]);
+    });
+  </script>
 </body>
 
 </html>
