@@ -9,9 +9,9 @@
 <body>
 Content of the document......
   <script>
-    var t;
-    d3.csv("results/train_summary_ip.csv", function(data) {
-      t = data;
+    var data = [];
+    d3.csv("results/train_summary_ip.csv", function(d) {
+      data.push(d);
     });
   </script>
 </body>
